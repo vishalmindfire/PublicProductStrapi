@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_layout_titles",
+  "info": {
+    "displayName": "Title"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "subheading": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
