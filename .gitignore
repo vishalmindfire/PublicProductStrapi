@@ -36,7 +36,6 @@ dist
 # Dependency directories
 node_modules/
 jspm_packages/
-.tmp/
 .strapi-updater.json
 
 # Typescript v1 declaration files
