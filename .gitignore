@@ -37,7 +37,7 @@ dist
 node_modules/
 jspm_packages/
 .tmp/
-.strapi-update.json
+.strapi-updater.json
 
 # Typescript v1 declaration files
 typings/
