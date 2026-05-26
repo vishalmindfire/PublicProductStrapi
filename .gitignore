@@ -36,12 +36,16 @@ dist
 # Dependency directories
 node_modules/
 jspm_packages/
+.tmp/
+.strapi-update.json
 
 # Typescript v1 declaration files
 typings/
 
+
 # Optional npm cache directory
 .npm
+
 
 # Optional eslint cache
 .eslintcache
@@ -61,3 +65,4 @@ typings/
 
 .DS_Store
 .idea
+.strapi-updater.json
