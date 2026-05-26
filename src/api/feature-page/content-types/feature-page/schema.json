@@ -18,6 +18,11 @@
       "type": "component",
       "component": "layout.features-section",
       "repeatable": false
+    },
+    "title": {
+      "type": "component",
+      "component": "layout.title",
+      "repeatable": false
     }
   }
 }
